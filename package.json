@@ -1,0 +1,22 @@
+{
+  "name": "calvad_areas_sql",
+  "version": "1.0.0",
+  "description": "Some sqitch changes to deploy CalVAD areas",
+  "main": "sqitch deploy",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/calvad_areas_sql.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/calvad_areas_sql/issues"
+  },
+  "homepage": "https://github.com/jmarca/calvad_areas_sql#readme"
+}
