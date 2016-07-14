@@ -2,3 +2,8 @@
 %project=calvad_areas_sql
 %uri=https://github.com/jmarca/calvad_areas_sql
 
+airbasins [calvad_db_geoextensions:geoextensions] 2016-07-14T16:24:38Z James E. Marca <james@activimetrics.com> # airbasins aligned 03
+airdistricts [calvad_db_geoextensions:geoextensions] 2016-07-14T16:38:29Z James E. Marca <james@activimetrics.com> # airdistricts aligned 03
+counties [calvad_db_geoextensions:geoextensions] 2016-07-14T16:48:32Z James E. Marca <james@activimetrics.com> # counties aligned 03
+carbgrid_schema 2016-07-14T16:51:25Z James E. Marca <james@activimetrics.com> # carbgrid schema
+grid_state4k [calvad_db_geoextensions:geoextensions carbgrid_schema] 2016-07-14T16:54:04Z James E. Marca <james@activimetrics.com> # carb grid state4k
